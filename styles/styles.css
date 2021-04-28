@@ -947,6 +947,15 @@ body {
 }
 
 
+#fb{
+    color: blue;
+    text-decoration: none;
+}
+
+#fb:visited {
+    color: blue;
+    text-decoration: none;
+}
 
 /* #popWork1 ::-webkit-scrollbar {
     width: 0px;
